@@ -1,0 +1,9 @@
+/home/kpilavov/QtProjects/3d_task/Debug/CMakeFiles/edit_cache.dir
+/home/kpilavov/QtProjects/3d_task/Debug/CMakeFiles/rebuild_cache.dir
+/home/kpilavov/QtProjects/3d_task/Debug/server/CMakeFiles/server.dir
+/home/kpilavov/QtProjects/3d_task/Debug/server/CMakeFiles/edit_cache.dir
+/home/kpilavov/QtProjects/3d_task/Debug/server/CMakeFiles/rebuild_cache.dir
+/home/kpilavov/QtProjects/3d_task/Debug/client/CMakeFiles/client.dir
+/home/kpilavov/QtProjects/3d_task/Debug/client/CMakeFiles/edit_cache.dir
+/home/kpilavov/QtProjects/3d_task/Debug/client/CMakeFiles/rebuild_cache.dir
+/home/kpilavov/QtProjects/3d_task/Debug/client/CMakeFiles/client_autogen.dir

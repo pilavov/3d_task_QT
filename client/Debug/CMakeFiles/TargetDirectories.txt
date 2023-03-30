@@ -1,0 +1,4 @@
+/home/kpilavov/QtProjects/client/Debug/CMakeFiles/client.dir
+/home/kpilavov/QtProjects/client/Debug/CMakeFiles/edit_cache.dir
+/home/kpilavov/QtProjects/client/Debug/CMakeFiles/rebuild_cache.dir
+/home/kpilavov/QtProjects/client/Debug/CMakeFiles/client_autogen.dir
